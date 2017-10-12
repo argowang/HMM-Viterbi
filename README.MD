@@ -31,9 +31,13 @@ Found 14043 NEs. Expected 5931 NEs; Correct: 3117.
 
 	 precision 	recall 		F1-Score
 Total:	 0.221961	0.525544	0.312106
+
 PER:	 0.435451	0.231230	0.302061
+
 ORG:	 0.475936	0.399103	0.434146
+
 LOC:	 0.147750	0.870229	0.252612
+
 MISC:	 0.491689	0.610206	0.544574
 
 OBSERVATION AND COMMENTS
@@ -68,10 +72,15 @@ we get the following output
 Found 4647 NEs. Expected 5931 NEs; Correct: 3657.
 
 	 precision 	recall 		F1-Score
+
 Total:	 0.786959	0.616591	0.691435
+
 PER:	 0.744311	0.605005	0.667467
+
 ORG:	 0.659729	0.473842	0.551544
+
 LOC:	 0.895994	0.695202	0.782929
+
 MISC:	 0.827048	0.690554	0.752663
 
 OBSERVATION:
@@ -109,10 +118,15 @@ After running eval_ne_tagger.py on 6.txt and ner_dev.key, we get the following r
 Found 5794 NEs. Expected 5931 NEs; Correct: 4312.
 
 	 precision 	recall 		F1-Score
+
 Total:	 0.744218	0.727027	0.735522
+
 PER:	 0.819468	0.787813	0.803329
+
 ORG:	 0.529880	0.695815	0.601616
+
 LOC:	 0.866622	0.712105	0.781802
+
 MISC:	 0.821756	0.680782	0.744656
 
 OBSERVATIONS
